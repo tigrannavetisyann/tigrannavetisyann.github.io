@@ -1,0 +1,166 @@
+body{
+ 
+}
+header img{
+  display: block;
+  width: 45%; 
+}
+header{
+    background: white;
+    padding: 0;
+    font-size:170%;
+}
+
+main{
+    background-image: url("poqr.png");
+    height: 1200vh;
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+    background-position: center;
+}
+.card {
+    width: 1150px;
+    border-radius: 40px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+    background-color: #fff;
+    justify-content: center;
+    height: 95vh;
+    margin: 210px;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.card-img {
+    width: 100%;
+    height: 85% ;
+    display: block;
+}
+
+
+.card-content {
+    padding: 5px;
+}
+
+.card-title {
+    margin: 0;
+    font-size: 1.5em;
+    color: #333;
+}
+
+.card-description {
+    margin: 8px 0 0;
+    font-size: 1em;
+    color: #666;
+}
+.card1 {
+    width: 1150px;
+    border-radius: 40px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+    background-color: #fff;
+    justify-content: center;
+    height: 95vh;
+    margin: 210px;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+.card2{
+	width: 1150px;
+    border-radius: 40px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+    background-color: #fff;
+    justify-content: center;
+    height: 95vh;
+    margin: 210px;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+.card3{
+	width: 1150px;
+    border-radius: 40px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+    background-color: #fff;
+    justify-content: center;
+    height: 95vh;
+    margin: 210px;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+.card4{
+	width: 1150px;
+    border-radius: 40px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+    background-color: #fff;
+    justify-content: center;
+    height: 95vh;
+    margin: 210px;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+.card5{
+	width: 1150px;
+    border-radius: 40px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+    background-color: #fff;
+    justify-content: center;
+    height: 110vh;
+    margin: 210px;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+.card6{
+	width: 1150px;
+    border-radius: 40px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+    background-color: #fff;
+    justify-content: center;
+    height: 95vh;
+    margin: 210px;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+.card7{
+	width: 1150px;
+    border-radius: 40px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+    background-color: #fff;
+    justify-content: center;
+    height: 107vh;
+    margin: 210px;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+.card8{
+    width: 1150px;
+    border-radius: 40px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+    background-color: #fff;
+    justify-content: center;
+    height: 95vh;
+    margin: 210px;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
